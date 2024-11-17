@@ -1,0 +1,248 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="-JqJfhJCRdb_Bdl5mBtQ">
+    <mxGraphModel dx="880" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-1" target="l7Z7tXr8Ff1fngu1ZzPe-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-1" target="l7Z7tXr8Ff1fngu1ZzPe-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-1" value="Um dia desses, dentro de um livro da biblioteca da escola, eu descobri uma carta antiga sobre uma cidade perdida, escondida por riquezas e belezas naturais. Nessa carta, a autora deixa algumas pistas para encontrar essa cidadee eu decidi segui-las." style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="209" y="535" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-2" value="Passo - 0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="259" y="505" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-4" target="l7Z7tXr8Ff1fngu1ZzPe-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-4" value="&lt;font color=&quot;#000000&quot;&gt;Rio de Janeiro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="499" y="535" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-5" target="l7Z7tXr8Ff1fngu1ZzPe-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-5" value="&lt;font color=&quot;#000000&quot;&gt;Pernambuco&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="499" y="685" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-13" value="Passo - 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="523" y="505" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-14" value="Passo - 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="524" y="655" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-29" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-23" target="l7Z7tXr8Ff1fngu1ZzPe-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-23" target="l7Z7tXr8Ff1fngu1ZzPe-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-23" value="Você começa sua jornada no Rio de Janeiro, subindo o Pico da Tijuca ao amanhecer para encontrar a primeira pista." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="385" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-44" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-25" target="l7Z7tXr8Ff1fngu1ZzPe-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-25" value="&lt;font color=&quot;#000000&quot;&gt;Procurar pista no topo do pico.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="958" y="335" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-26" value="Passo - 3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="983" y="305" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-27" target="l7Z7tXr8Ff1fngu1ZzPe-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-27" value="&lt;font color=&quot;#000000&quot;&gt;Desistir e vltar para casa.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="958" y="485" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-28" value="Passo - 4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="983" y="455" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-32" target="l7Z7tXr8Ff1fngu1ZzPe-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-39" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-32" target="l7Z7tXr8Ff1fngu1ZzPe-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-32" value="Em Pernambuco, você a histórica cidade de Olinda. Na carta, uma das pistas indica que para localizar a entrada para cidade perdida você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você começa?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="730" width="200" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-46" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-33" target="l7Z7tXr8Ff1fngu1ZzPe-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-33" value="&lt;font color=&quot;#000000&quot;&gt;Investigar as igrejas antigas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="959" y="717" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-34" value="Passo - 5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="983" y="687" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-35" target="l7Z7tXr8Ff1fngu1ZzPe-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-35" value="&lt;font color=&quot;#000000&quot;&gt;Explorar as praias próximas.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="959" y="867" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-36" value="Passo - 6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="983" y="837" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-58" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-40" target="l7Z7tXr8Ff1fngu1ZzPe-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-40" value="No topo do Pico da Tijuca, você encontrará uma antiga inscrição apontando que a próxima pista está localizada no Amazonas." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="270" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-41" target="l7Z7tXr8Ff1fngu1ZzPe-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-41" value="Explorando as praias, você encontra uma caverna escondida, mas ela leva a um beco sem saída" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1182" y="887" width="151" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-57" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-42" target="l7Z7tXr8Ff1fngu1ZzPe-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-42" value="Nas igrejas de Olinda, você descobre um mapa antigo atrás de um altar, apontando que a próxia pista está no Amazonas" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1173" y="673" width="160" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-43" value="Vocẽ decide que a aventura é grande demais e volta para casa, as sempre pergunta o que teria encontrado!?" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1179" y="455" width="171" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-64" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-48" target="l7Z7tXr8Ff1fngu1ZzPe-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-48" value="&lt;font color=&quot;#000000&quot;&gt;Seguir para o Amazonas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-49" value="Passo - 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1445" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-67" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-50" target="l7Z7tXr8Ff1fngu1ZzPe-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-50" value="&lt;font color=&quot;#000000&quot;&gt;Voltar e explorar as igrejas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="895" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-51" value="Passo - 8" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1445" y="865" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-66" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-52" target="l7Z7tXr8Ff1fngu1ZzPe-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1719" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-52" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Seguir para o Amazonas&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1420" y="687" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-53" value="Passo - 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1444" y="657" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-82" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-59" target="l7Z7tXr8Ff1fngu1ZzPe-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-59" value="O rio à esquerda leva você a uma cachoeira escondida com inscrições antigas que revelam a localização cidade perdda." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="260" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-85" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-60" target="l7Z7tXr8Ff1fngu1ZzPe-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-60" value="O rio à direita terina em uma área pantanosa. Apesar de belas vistas, não há sinais da cidade perdida aqui.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2120" y="462.5" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-76" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-61" target="l7Z7tXr8Ff1fngu1ZzPe-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-77" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-61" target="l7Z7tXr8Ff1fngu1ZzPe-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-61" value="No Amazonas, a busca pela cidade se intensifica. Você se depara com um rio bifurcado." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1640" y="350" width="160" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-70" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-62" target="l7Z7tXr8Ff1fngu1ZzPe-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-62" value="De volta às igrajas, você finalmente encontra o mapa antigo. Agora, para o Amazonas." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1630" y="820" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-71" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-68" target="l7Z7tXr8Ff1fngu1ZzPe-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-68" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Seguir para o Amazonas&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1859" y="845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-69" value="Passo - 7" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1883" y="815" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-78" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-72" target="l7Z7tXr8Ff1fngu1ZzPe-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-72" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Seguir pelo rio à esquerda.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1899" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-73" value="Passo - 9" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1924" y="245" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-79" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-74" target="l7Z7tXr8Ff1fngu1ZzPe-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-74" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Seguir pelo rio à direita.&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="1899" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-75" value="Passo - 10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1919" y="445" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-89" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-80" target="l7Z7tXr8Ff1fngu1ZzPe-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-80" value="&lt;font color=&quot;#000000&quot;&gt;Explorar a cidade perdida&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="2379" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-81" value="Passo - 11" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2399" y="245" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-88" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-83" target="l7Z7tXr8Ff1fngu1ZzPe-86" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-83" value="&lt;font color=&quot;#000000&quot;&gt;Retornar e tentar o outro rio.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="2379" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-84" value="Passo - 12" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="2399" y="445" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-90" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="l7Z7tXr8Ff1fngu1ZzPe-86" target="l7Z7tXr8Ff1fngu1ZzPe-80" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-86" value="Retornado e escolhendo o rio à esquerda, você finalmente encontra uma cachoeira escondida com inscrições antigas que revelam a localização da cidade perdida." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2619" y="450" width="211" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-87" value="Dentro da cidade perdida, você descobre tesouros inimagináveis e decide se dedicar a estudar e preservar este lugar." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2600" y="260" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-91" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="269" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-92" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1234.5" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-93" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="750" y="675" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-94" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="780" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-95" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1225" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-96" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1209" y="645" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l7Z7tXr8Ff1fngu1ZzPe-97" value="&lt;font color=&quot;#00cc00&quot;&gt;ATIVO&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1209" y="860" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
